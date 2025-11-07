@@ -1,5 +1,3 @@
-# hola_mundo.py
-
 def main():
     print("Hola mundo")
 
